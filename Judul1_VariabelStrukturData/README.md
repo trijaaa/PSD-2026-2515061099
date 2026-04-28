@@ -5,7 +5,7 @@ Judul Program: Sistem Playlist Lagu
 Program ini berfungsi sebagai sistem manajemen playlist yang dirancang untuk memudahkan pengguna dalam menyimpan, mengatur, dan memutar daftar lagu secara terstruktur. Dengan menyediakan fitur utama seperti penambahan lagu, penghapusan lagu, penampilan daftar playlist, serta pemutaran lagu berdasarkan nomor urut, program ini membantu pengguna dalam mengelola koleksi lagu secara efisien. Algoritma dan struktur data yang diterapkan dalam program ini adalah Vector (list), yaitu struktur data dinamis yang memungkinkan penambahan dan penghapusan elemen secara fleksibel. Setiap elemen dalam list merepresentasikan satu judul lagu yang tersimpan secara berurutan. Implementasi ini menggunakan perulangan untuk mengakses dan menampilkan data, serta dilengkapi dengan mekanisme error handling (try-except) untuk menangani kesalahan input pengguna, seperti input non-angka atau index yang tidak valid, sehingga program tetap berjalan dengan stabil. Selain itu, penggunaan teknik string formatting digunakan untuk menyajikan output secara rapi dan mudah dipahami oleh pengguna.
 
 Source Code:
-<img width="1592" height="3020" alt="source code" src="https://github.com/user-attachments/assets/87ec8d68-897a-45ba-8902-cdd5bf1fbea1" />
+<img width="1592" height="3020" alt="source code" src="https://github.com/user-attachments/assets/50eeadfb-0d97-4b21-bd9e-22d394d768f0" />
 
 1. Mendefinisikan fungsi menu() untuk menampilkan daftar pilihan program.
 2. Menampilkan judul menu playlist kepada pengguna.
