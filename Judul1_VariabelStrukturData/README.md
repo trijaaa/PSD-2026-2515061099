@@ -69,3 +69,24 @@ Source Code:
 60. 
 61. Baris standar Python untuk memastikan fungsi main() hanya berjalan jika file ini dieksekusi langsung.
 62. Memanggil fungsi main() untuk menjalankan program.
+
+Output Program:
+- Daftar Pilihan yang ada dalam Program
+<img width="313" height="217" alt="image" src="https://github.com/user-attachments/assets/a1278b82-cba3-4992-8e32-841455affb27" />
+
+- Pilihan 1 (Menambahkan lagu kedalam playlist)
+<img width="580" height="93" alt="image" src="https://github.com/user-attachments/assets/55bc3712-3418-476d-83a4-335a2583f69f" />
+
+- Pilihan 2 (Menghapus lagu dari playlist)
+<img width="681" height="86" alt="image" src="https://github.com/user-attachments/assets/d9add18c-7de0-4829-bbab-0d1c09d01a5a" />
+
+- Pilihan 3 (Menampilkan playlist)
+<img width="452" height="143" alt="image" src="https://github.com/user-attachments/assets/be3ee806-98ab-4f49-a916-d05dbe6174e5" />
+
+- Pilihan 4 (Putar lagu)
+<img width="579" height="96" alt="image" src="https://github.com/user-attachments/assets/306aa518-f943-4f0d-80ff-189212702184" />
+
+- Pilihan 5 (Keluar program)
+<img width="222" height="59" alt="image" src="https://github.com/user-attachments/assets/2f7a2f05-aac7-40b8-a749-b13372df40e4" />
+
+Link Youtube: 
