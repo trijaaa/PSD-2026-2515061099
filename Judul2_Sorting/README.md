@@ -54,3 +54,10 @@ Source Code:
 41. (baris kosong)
 42. Mengecek apakah file dijalankan sebagai program utama (__name__ == "__main__").
 43. Memanggil fungsi main() jika kondisi terpenuhi.
+
+Output:
+Menampilkan proses input data tugas dari pengguna serta kondisi data sebelum dilakukan pengurutan.
+<img width="1363" height="280" alt="image" src="https://github.com/user-attachments/assets/a7093e96-3295-459a-a4bd-7615fb777c29" />
+Menampilkan hasil pengurutan tugas berdasarkan deadline dari yang paling mendesak menggunakan algoritma Insertion Sort.
+<img width="527" height="121" alt="image" src="https://github.com/user-attachments/assets/c1673eb2-ba9d-4393-b99b-9a326ee7cff2" />
+Link Youtube: 
