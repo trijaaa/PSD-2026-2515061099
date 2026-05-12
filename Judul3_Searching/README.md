@@ -14,15 +14,15 @@ Source Code:
 
 <img width="1458" height="3240" alt="Source Code" src="https://github.com/user-attachments/assets/2614493d-da79-4a1d-9507-1bc63013e415" />
 
-1 & 2. Mendefinisikan dictionary `kontak` sebagai tempat menyimpan data kontak.
-3. (baris kosong)
-4. Memulai perulangan program agar menu terus tampil sampai pengguna keluar.
-5. Menampilkan judul program kontak.
-6. Menampilkan menu “Lihat Kontak”.
-7. Menampilkan menu “Cari Kontak”.
-8. Menampilkan menu “Tambah Kontak”.
-9. Menampilkan menu “Hapus Kontak”.
-0. Menampilkan menu “Keluar”.
+1. Mendefinisikan dictionary `kontak` sebagai tempat menyimpan data kontak.
+2. (baris kosong)
+3. Memulai perulangan program agar menu terus tampil sampai pengguna keluar.
+4. Menampilkan judul program kontak.
+5. Menampilkan menu “Lihat Kontak”.
+6. Menampilkan menu “Cari Kontak”.
+7. Menampilkan menu “Tambah Kontak”.
+8. Menampilkan menu “Hapus Kontak”.
+9. Menampilkan menu “Keluar”.
 10. (baris kosong)
 11. Menerima input pilihan menu dari pengguna.
 12. (baris kosong)
@@ -80,3 +80,22 @@ Source Code:
 64. (baris kosong)
 65. Menjalankan blok `else` jika pilihan menu tidak sesuai.
 66. Menampilkan pesan bahwa pilihan tidak valid.
+
+Output:
+- Program Mencetak Menu Utama
+<img width="352" height="230" alt="image" src="https://github.com/user-attachments/assets/045f09c3-1bbb-4dd2-976e-7a92e977e7dd" />
+
+- Tampilan saat Pilihan 1 ( Dalam kondisi Variabel kontak ada isi dan tidak ada isi )
+<img width="326" height="128" alt="image" src="https://github.com/user-attachments/assets/9fc7726e-d941-4299-a256-989a7f5e68cf" />
+<img width="299" height="97" alt="image" src="https://github.com/user-attachments/assets/e329a857-6913-40af-ad53-d31734ee4227" />
+
+- Tampilan saat pilihan 2 ( Mencari Kontak )
+<img width="395" height="140" alt="image" src="https://github.com/user-attachments/assets/8b28f3f0-fc34-4101-af4f-c3ae1627aaa9" />
+
+- Tampilan saat pilihan 3 ( Menambahkan kontak )
+<img width="479" height="114" alt="image" src="https://github.com/user-attachments/assets/a61865dd-d734-4cc3-9c80-b836019650e5" />
+
+- Tampilan saat pilihan 4 ( Menghapus Kontak )
+<img width="597" height="130" alt="image" src="https://github.com/user-attachments/assets/8fbb1365-4f9e-432a-87af-504b021349d9" />
+
+Link Youtube: 
