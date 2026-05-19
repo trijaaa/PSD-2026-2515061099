@@ -11,4 +11,5 @@ Program ini memiliki beberapa fitur utama seperti menambahkan aktivitas baru (pu
 Dengan adanya program ini, pengguna dapat lebih mudah dalam mengelola riwayat aktivitas secara praktis dan terorganisir. Sistem ini diharapkan dapat membantu pengguna dalam memahami penerapan struktur data Stack dan Linked List pada pemrograman Python, sekaligus memberikan pengalaman penggunaan program yang sederhana namun fungsional.
 
 Source Code:
+
 <img width="1472" height="4868" alt="Source Code" src="https://github.com/user-attachments/assets/4d3f46f5-dac0-4542-8827-ae1cb2498248" />
