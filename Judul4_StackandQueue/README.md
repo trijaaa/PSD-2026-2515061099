@@ -45,11 +45,11 @@ Source Code:
 29 : Mendefinisikan fungsi peek() untuk melihat aktivitas terakhir.
 30 : Mengecek apakah stack kosong.
 31 : Menampilkan pesan bahwa riwayat aktivitas kosong.
-32 : Menghentikan fungsi menggunakan return.
+32 : Menghentikan fungsi menggunakan return. 
 33 : (baris kosong)
 34 : Menampilkan aktivitas terakhir pada stack.
 35 : (baris kosong)
-36 : Mendefinisikan fungsi display() untuk menampilkan semua aktivitas.
+36 : Mendefinisikan fungsi display() untuk menampilkan semua aktivitas. 
 37 : Mengecek apakah stack kosong.
 38 : Menampilkan pesan bahwa riwayat aktivitas kosong.
 39 : Menghentikan fungsi menggunakan return.
@@ -109,10 +109,10 @@ Source Code:
 93 : Mengecek apakah pengguna memilih menu “5”.
 94 : Menghitung total aktivitas menggunakan fungsi hitung_aktivitas().
 95 : (baris kosong)
-96 : Mengecek apakah pengguna memilih menu “6”.
+96 : Mengecek apakah pengguna memilih menu “6”. 
 97 : Menampilkan pesan program selesai.
 98 : (baris kosong)
-99 : Mengecek jika pilihan menu tidak tersedia.
+99 : Mengecek jika pilihan menu tidak tersedia. 
 100 : Menampilkan pesan pilihan tidak valid.
 101 : (baris kosong)
 102 : (baris kosong)
