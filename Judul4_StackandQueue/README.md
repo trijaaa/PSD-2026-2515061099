@@ -138,6 +138,7 @@ Melihat aktivitas terakhir
 Melihat jumlah aktivitas
 
 <img width="636" height="273" alt="image" src="https://github.com/user-attachments/assets/05555188-1bee-44c7-a0d9-3af5cfe3c48d" />
+
 Menghapus aktivitas terakhir
 
 Link youtube: 
