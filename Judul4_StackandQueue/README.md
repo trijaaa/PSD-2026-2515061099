@@ -119,3 +119,20 @@ Source Code:
 103. Mengecek apakah file dijalankan sebagai program utama.
 104. Menjalankan fungsi main().
 
+Output:
+<img width="582" height="589" alt="image" src="https://github.com/user-attachments/assets/1c07f423-d447-4703-96e7-122a2b5a72e3" />
+Proses penambahan aktivitas
+
+<img width="376" height="381" alt="image" src="https://github.com/user-attachments/assets/9c5d6e59-5532-49d7-b249-e363d67a8ce4" />
+Melihat seluruh aktivitas
+
+<img width="404" height="274" alt="image" src="https://github.com/user-attachments/assets/a9f92900-aa77-46b7-8a6d-4f8ea1b9bc81" />
+Melihat aktivitas terakhir
+
+<img width="381" height="269" alt="image" src="https://github.com/user-attachments/assets/ac1bf5ac-dfd7-48b5-9e16-6e80319c4b7a" />
+Melihat jumlah aktivitas
+
+<img width="636" height="273" alt="image" src="https://github.com/user-attachments/assets/05555188-1bee-44c7-a0d9-3af5cfe3c48d" />
+Menghapus aktivitas terakhir
+
+Link youtube: 
