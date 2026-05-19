@@ -141,4 +141,4 @@ Melihat jumlah aktivitas
 
 Menghapus aktivitas terakhir
 
-Link youtube: 
+Link youtube: https://www.youtube.com/watch?v=cyeMFZGMmlE
