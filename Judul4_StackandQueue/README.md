@@ -12,4 +12,3 @@ Dengan adanya program ini, pengguna dapat lebih mudah dalam mengelola riwayat ak
 
 Source Code:
 <img width="1472" height="4868" alt="Source Code" src="https://github.com/user-attachments/assets/4d3f46f5-dac0-4542-8827-ae1cb2498248" />
-
