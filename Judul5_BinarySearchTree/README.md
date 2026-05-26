@@ -205,3 +205,23 @@ Pilihan 1, menambahkan nilai:
 
 <img width="479" height="708" alt="image" src="https://github.com/user-attachments/assets/dffc840d-37da-4ba2-b726-d137940dc03b" />
 <img width="462" height="703" alt="image" src="https://github.com/user-attachments/assets/37018548-e7d4-4fb3-85d8-b3fa5638a4bd" />
+
+Pilihan 2, menghapus nilai:
+
+<img width="502" height="352" alt="image" src="https://github.com/user-attachments/assets/d977278b-a72d-47eb-a990-8ce0428bc9ee" />
+
+Pilihan 3, menampilkan rangking (urutan nilai dari besar ke terkecil):
+
+<img width="447" height="423" alt="image" src="https://github.com/user-attachments/assets/c7e4e9e6-6d4d-48ee-a2c2-54990998ee7b" />
+
+Pilihan 4, mencari nilai:
+
+<img width="442" height="352" alt="image" src="https://github.com/user-attachments/assets/d8f3ccfc-2cf1-4e4d-a347-8d28c1281615" />
+
+Pilihan 5, menampilkan tinggi dari BST:
+
+<img width="423" height="322" alt="image" src="https://github.com/user-attachments/assets/51193946-9037-4be2-9f40-bf0ddfa281ae" />
+
+===============================================================
+
+Link Youtube: 
