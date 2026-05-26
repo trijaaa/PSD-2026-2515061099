@@ -194,3 +194,9 @@ Source Code:
 177. Menjalankan fungsi `main()`.
 178. (akhir program)
 179. (file selesai dieksekusi)
+
+Output:
+
+<img width="434" height="296" alt="image" src="https://github.com/user-attachments/assets/c1aac8c3-2dc3-458a-ae81-eddf87d54e7d" />
+Menampilkan menu
+
