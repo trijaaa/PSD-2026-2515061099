@@ -197,6 +197,11 @@ Source Code:
 
 Output:
 
-<img width="434" height="296" alt="image" src="https://github.com/user-attachments/assets/c1aac8c3-2dc3-458a-ae81-eddf87d54e7d" />
-Menampilkan menu
+Menampilkan menu:
 
+<img width="434" height="296" alt="image" src="https://github.com/user-attachments/assets/c1aac8c3-2dc3-458a-ae81-eddf87d54e7d" />
+
+Pilihan 1, menambahkan nilai:
+
+<img width="479" height="708" alt="image" src="https://github.com/user-attachments/assets/dffc840d-37da-4ba2-b726-d137940dc03b" />
+<img width="462" height="703" alt="image" src="https://github.com/user-attachments/assets/37018548-e7d4-4fb3-85d8-b3fa5638a4bd" />
