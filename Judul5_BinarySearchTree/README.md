@@ -10,3 +10,8 @@ Program ini memiliki beberapa fitur utama seperti menambahkan nilai siswa ke dal
 Dalam proses penampilan ranking, program menggunakan metode traversal reverse inorder sehingga data nilai dapat ditampilkan mulai dari nilai terbesar hingga terkecil. Dengan cara tersebut, pengguna dapat melihat urutan ranking kelas secara otomatis tanpa perlu melakukan proses sorting tambahan.
 
 Dengan adanya program ini, pengguna dapat lebih mudah dalam mengelola data ranking kelas secara praktis dan terorganisir. Sistem ini diharapkan dapat membantu pengguna dalam memahami penerapan struktur data Binary Search Tree (BST) pada pemrograman Python, sekaligus memberikan pengalaman penggunaan program yang sederhana namun fungsional.
+
+Source Code:
+
+<img width="1420" height="8168" alt="Source code" src="https://github.com/user-attachments/assets/a614a9bd-0586-43e5-bacf-c428f47de63a" />
+
