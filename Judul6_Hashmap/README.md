@@ -13,7 +13,7 @@ Dengan adanya program ini, pengguna dapat lebih mudah dalam mengelola data menu 
 
 Source Code:
 
-
+<img width="1672" height="6716" alt="Source Code" src="https://github.com/user-attachments/assets/86bb3194-d11a-4a94-9367-40ce900d3718" />
 
 1. Mendefinisikan class Node sebagai node pada linked list.
 2. Mendefinisikan constructor **init** pada class Node.
@@ -162,3 +162,33 @@ Source Code:
 145. (baris kosong)
 146. Mengecek apakah file dijalankan sebagai program utama.
 147. Memanggil fungsi main().
+
+Output:
+
+Menambahkan menu kopi:
+
+<img width="555" height="637" alt="image" src="https://github.com/user-attachments/assets/4409b4b4-7752-4968-8c6f-ee633789fdc4" />
+<img width="501" height="320" alt="image" src="https://github.com/user-attachments/assets/346b9859-5243-4da2-9808-f699c45069c7" />
+
+======
+
+Menampilkan seluruh menu kopi:
+
+<img width="511" height="341" alt="image" src="https://github.com/user-attachments/assets/5afd22c6-9bda-4c51-ba68-847fffab0d6f" />
+
+======
+
+Mencari menu kopi berdasarkan ID nya:
+
+<img width="513" height="369" alt="image" src="https://github.com/user-attachments/assets/9a2d043e-e466-4247-b0a6-2a0eb854b6ca" />
+
+======
+
+Menghapus menu kopi menggunakan ID:
+
+<img width="536" height="269" alt="image" src="https://github.com/user-attachments/assets/287d5285-dc0f-4cd5-a461-7c19d47869ec" />
+<img width="516" height="317" alt="image" src="https://github.com/user-attachments/assets/65e507a0-0641-46c1-9d56-23f3a35868b7" />
+
+======
+
+Link YT: 
